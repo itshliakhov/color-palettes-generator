@@ -1,4 +1,5 @@
 Project name: **Color Palettes Generator**.  
+**https://itshliakhov.github.io/color-palettes-generator/**
 ----
 Copy of the **"Coolors - The super fast color palettes generator!"**.  
 
